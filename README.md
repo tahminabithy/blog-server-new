@@ -6,7 +6,7 @@ This project implements a backend for a blogging platform, enabling users to cre
 
 ## 🌐 Live URL
 
-Access the live API documentation or backend at: [Your Live URL Here](#)
+Access the live API documentation or backend at: [https://blog-server-new-phi.vercel.app/](#)
 
 ---
 
